@@ -1,7 +1,7 @@
-# AlgebraicTemplate.jl
+# Demosthenes.jl
 
 ```@meta
-CurrentModule = AlgebraicTemplate
+CurrentModule = Demosthenes
 ```
 
-`AlgebraicTemplate.jl` is a Julia library for...
+`Demosthenes.jl` is a Julia library for...
